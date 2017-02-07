@@ -1,0 +1,38 @@
+﻿  main.c
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\main.c(8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  fileManager.c
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(27): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'FILE *'
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(27): warning C4024: 'putInBuffer': different types for formal and actual parameter 4
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(34): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'FILE *'
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(34): warning C4024: 'putInBuffer': different types for formal and actual parameter 4
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(83): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'FILE **'
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(83): warning C4024: 'fprintf_s': different types for formal and actual parameter 1
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(110): warning C4028: formal parameter 1 different from declaration
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(166): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'FILE *'
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(166): warning C4024: 'putInBuffer': different types for formal and actual parameter 4
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(191): warning C4033: 'merge' must return a value
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(201): warning C4033: 'merge' must return a value
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(236): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'FILE *'
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(236): warning C4024: 'putInBuffer': different types for formal and actual parameter 4
+  Interface.c
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(8): warning C4129: 'S': unrecognized character escape sequence
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(27): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(27): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(27): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(27): note: this argument is used as a buffer size
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(58): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(58): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(58): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(58): note: this argument is used as a buffer size
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(91): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(91): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(91): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(91): note: this argument is used as a buffer size
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(142): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(142): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(142): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\interface.c(142): note: this argument is used as a buffer size
+  Generating Code...
+c:\users\kassad\documents\visual studio 2015\projects\naturalmerge\naturalmerge\filemanager.c(255): warning C4715: 'merge': not all control paths return a value
+  NaturalMerge.vcxproj -> C:\Users\kassad\documents\visual studio 2015\Projects\NaturalMerge\Debug\NaturalMerge.exe
+  NaturalMerge.vcxproj -> C:\Users\kassad\documents\visual studio 2015\Projects\NaturalMerge\Debug\NaturalMerge.pdb (Partial PDB)
